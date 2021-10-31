@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    </head>
+    <header>
+      <h1>Optional</h1>
+      <nav>
+        <ul>
+          <li><a href="#home">Home</a></li>
+          <li><a href="#posts">Posts</a></li>
+          <li><a href="#contact">Contact</a></li>
+          </ul>
+      </nav>
+    </header>
+    
+    <main>
+      <section>
+        <article>
+          <h2>friends de sustain</h2>
+          <p>
+           Friends De Sustain International (FDSI) was established in February 4, 2018 and was called PRAKNAK welfare and later changed to FDSI.The name changed on the onset of 2019 as a result of emergence of new people who came on board. It therefore affected the objectives which was initiated during the early days.
+
+The organisation supported the needy people with clothes, cooking oil, rice etc as well as peasant farmers with Agro-chemicals, seedlings and cutlasses to support them to improve their lives. kuntanase in Asikuma Odobeng Brakwa District in Central Region of Ghana and some communities in coastal belt of Western Region of Ghana were beneficiaries to their projects.
+          </p>
+        </article>
+        <aside>
+          <p>VISION
+
+To actively contribute to the environment / health and socio-economic development of deprived communities in which we operate and to be an organisation that continually respond to the transformation of livelihood of the people.</p>
+<p>MISSION
+
+To work towards the improvement of lives through advocacy and capacity building of school children, unemployed youth and women to achieve sustainable development.
+          </p> 
+        </aside>
+      </section> 
+      <figure>
+   ?<img src="https://www.w3schools.com/img_chania.jpg" width="460" height="345">
+
+
+
+        
+      </figure>
+         
+    </main>
+    
+    <footer>
+      <p>Contact me at +1 234 567 8910 </p>
+    </footer>
+              
+  </body>
+</html>
